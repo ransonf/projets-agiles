@@ -32,15 +32,19 @@ Description du projet
 * git :
 
 
-# Équipe 4 : Nom du projet
-Description du projet 
+# Équipe 4 Pakrosmaga
+jeu de strategie. defendre sa base et attaquer celle de l'ennemi, jeu deux joueurs, avec differents personnages que l'on peut acheter et envoyer au combat.
 
 ## Équipe
-* Prénom Nom
+* clusman lucas
+ranson florian
+cassoret maxime
+mans léo 
+ouvry thomas
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/ouvryt/Agile_Equipe_4.git
 
 # Équipe 5 : Spider Solitaire
 Jeu de carte, il y a 10 colonnes de cartes le but est de crée des famille du AS au Roi en changeant les cartes de colonne.
